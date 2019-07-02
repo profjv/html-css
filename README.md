@@ -1,2 +1,2 @@
-# html-css
-Exercícios desenvolvidos nas aulas
+# Exercício 2 
+Inserir imagens e textos 
